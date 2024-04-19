@@ -19,7 +19,7 @@ gh repo clone devmsrajput/yt-backend
 ```
 
 ### Controllers:
-+ **User routes:**
++ **User controller:**
     + `userChangePassword`: To change password.
     + `userChannelProfile`: A user can view other's profiles and informations, like: total subscribers on channel, subscribed to, and videos.
     + `userCurrentProfile`: A user can view own profile.
@@ -30,3 +30,11 @@ gh repo clone devmsrajput/yt-backend
     + `userUpdateAvatar`: To update avatar picture.
     + `userUpdateCover`: To update cover picture.
     + `userUpdateProfileDetails`: A user can update profile details.
+
++ **Video controller:**
++ **Subscription controller:**
++ **Likes controller:**
++ **Comments controller:**
++ **Tweets controller:**
++ **Playlist controller:**
++ **Dashboard controller:**
