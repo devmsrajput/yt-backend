@@ -18,6 +18,15 @@ https://github.com/devmsrajput/yt-backend.git
 gh repo clone devmsrajput/yt-backend
 ```
 
-### Routes:
+### Controllers:
 + **User routes:**
     + `userChangePassword`: To change password.
+    + `userChannelProfile`: A user can view other's profiles and informations, like: total subscribers on channel, subscribed to, and videos.
+    + `userCurrentProfile`: A user can view own profile.
+    + `userLogin`: Login, email/username and password.
+    + `userLogout`: User can logout.
+    + `userRefreshAccessToken`: This will generate and provide new accessToken and refreshToken.
+    + `userSignup`: Signup.
+    + `userUpdateAvatar`: To update avatar picture.
+    + `userUpdateCover`: To update cover picture.
+    + `userUpdateProfileDetails`: A user can update profile details.
