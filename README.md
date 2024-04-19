@@ -17,3 +17,5 @@ https://github.com/devmsrajput/yt-backend.git
 //GitHub CLI
 gh repo clone devmsrajput/yt-backend
 ```
+
+### Routes:
