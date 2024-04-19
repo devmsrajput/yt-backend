@@ -8,3 +8,12 @@ ___This is complete YouTube backend project, where have tried to implement all b
 + **Tweet:** A user can post tweets.
 + **Playlist:** A user can create playlists, add videos.
 + **Dashboard:** A user will have dashboard, where user can see channel statistics like: total likes, total views, total videos.
+
+### Clone this repository:
+```git
+// HTTPS
+https://github.com/devmsrajput/yt-backend.git
+
+//GitHub CLI
+gh repo clone devmsrajput/yt-backend
+```
