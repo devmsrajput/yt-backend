@@ -40,3 +40,11 @@ gh repo clone devmsrajput/yt-backend
 + **Dashboard controller:**
 
 ### Routes:
++ **User routes:**
++ **Video routes:**
++ **Subscription routes:**
++ **Likes routes:**
++ **Comments routes:**
++ **Tweets routes:**
++ **Playlist routes:**
++ **Dashboard routes:**
